@@ -1,1 +1,3 @@
 # Trade
+
+Algorithm of exchange
