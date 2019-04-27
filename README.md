@@ -1,5 +1,6 @@
 # Trade
+# Ruby on Rails trade algorithm exchange
+
 
 Algorithm of exchange
 
-Trade is a Ruby on Rails trade algorithm exchange
